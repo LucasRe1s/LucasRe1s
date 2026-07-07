@@ -1,32 +1,18 @@
-### Oi, sou Lucas! 👋  
-**Estudante de Desenvolvimento Web** com foco em **Back-End** e apaixonado por tecnologia e música! 🎸  
-Atualmente, estou estagiando na **Edge Technology**, onde tenho a oportunidade de trabalhar em **projetos reais**, aplicando minhas habilidades em **Node.js**, **typescipr** e **outros frameworks modernos** para criar soluções escaláveis e de alta performance.
+### Oi, sou o Lucas 👋
 
-- 🔭 **Experiência atual**: Estagiário na **Edge Technology**, com foco em desenvolvimento back-end e integração de sistemas.
-- 🌱 **Tecnologias que estou aprendendo**: Node.js, Typescript, PostgresSQL, Web sockect, cypress e boas práticas de desenvolvimento.
-- 💼 **Experiência prática**: Trabalho com projetos reais que envolvem a implementação de soluções escaláveis e otimização de processos de desenvolvimento.
+Sou desenvolvedor full stack, apaixonado por tecnologia e música 🎸.
 
-##
+Construo produtos de ponta a ponta com **Next.js**, **Node.js**, **TypeScript**, **Supabase** e **PostgreSQL**.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucasre1s&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+Alguns projetos que venho desenvolvendo:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Lucas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Lucas-SocketIo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg">
-  <img align="center" alt="Lucas-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Lucas-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Lucas-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- **[my-finace-bot-study](https://github.com/LucasRe1s/my-finace-bot-study)** — bot financeiro pessoal via Telegram com IA (Agno + Groq/Llama 3.3) para registro de gastos em linguagem natural. Backend em FastAPI, dados no Supabase e dashboard em Next.js.
+- **[save-the-climate-api](https://github.com/LucasRe1s/save-the-climate-api)** — API em NestJS que consome dados climáticos da OpenWeather e persiste os registros em PostgreSQL.
+- **[coach-ai-app](https://github.com/LucasRe1s/coach-ai-app)** — assistente musical com IA para tirar dúvidas sobre teoria e história da música.
+
+**Vamos conversar!**
+
+<div>
+  <a href="mailto:lucaasreiisdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-p-reis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-##
-
-<div> 
-  <a href="mailto:lucaasreiis17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-p-reis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
----
